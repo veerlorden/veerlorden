@@ -1,4 +1,4 @@
-👋 Hi, I’m @veerlorden. I'm currently learning Swift and looking for a job to apply my skills.
+👋 Hi, I’m @veerlorden.
 I'm really excited to learn new things and approaches! Here you can find some of my projects. 
 Feel free to contact me via email veerlorden@gmail.com
 
